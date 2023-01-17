@@ -24,7 +24,7 @@
 }
 
 .imagen_fondo{
-    background-image: url("/img/pokemon-background.png");
+    background-image: url("img/pokemon-background.png");
     margin-left: 10px;margin-top: 80px;
     height: 180px;width: 280px;
 }
